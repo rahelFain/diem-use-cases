@@ -67,6 +67,12 @@ informative:
     title: Personnel of Foreign Governments and International Organizations and Special Treatment for Returning Individuals
     author:
        org: Cornell Law School - Legal Information Institute
+
+  RAMSAR:
+    target: https://www.ramsar.org
+    title: The Convention on Wetlands
+    author:
+       org: Convention on Wetlands Secretariat
     
 --- abstract
 
@@ -309,3 +315,12 @@ location, and an indicator of its identity (i.e., tail number). Potential need f
 
 ## World Health Organization (WHO)
 Similar use case as the ICRC.
+
+## Ramsar Convention on the Wetlands (UNESCO)
+The Convention on Wetlands of International Importance especially as Waterfowl Habitat "providees the single most global framework for intergovernmental cooperation on wetland issues" and it features a list of geographic areas designated by Member States.  A digital emblem for the geographic areas potentially requires
+
+* Indication of location
+* Access to presence or absence of Ramsar designation of a specified location 
+* Textual description
+* Ability to validate the presence or absence of Ramsar designation
+
