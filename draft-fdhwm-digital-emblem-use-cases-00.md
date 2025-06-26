@@ -35,7 +35,11 @@ author:
     name: Allison Mankin
     org: PCH
     email: allison.mankin@gmail.com
- 
+ -
+    ins: A. Rosenberg
+    name: Alex Rosenberg
+    org: Veridigo
+    email: alexr@veridigo.com
 
 normative:
   RFC2119:
@@ -67,6 +71,21 @@ informative:
     title: Personnel of Foreign Governments and International Organizations and Special Treatment for Returning Individuals
     author:
        org: Cornell Law School - Legal Information Institute
+  ISPM15:
+    target: https://www.ippc.int/static/media/files/publication/en/2019/02/ISPM_15_2018_En_WoodPackaging_Post-CPM13_Rev_Annex1and2_Fixed_2019-02-01.pdf
+    title: "International Standards for Phytosanitary Measures No. 15: Regulation of Wood Packaging Material in International Trade"
+    author:
+       org: International Plant Protection Convention, Food and Agriculture Organization of the United Nations
+  UNMODELREGS:
+    target: https://unece.org/transport/dangerous-goods/un-model-regulations-rev-23
+    title: "UN Model Regulations on the Transport of Dangerous Goods"
+    author:
+       org: United Nations Economic and Social Council
+  HARMONIZED:
+    target: https://www.wcotradetools.org/en/harmonized-system
+    title: "Harmonized System"
+    author:
+       org: World Customs Organization
     
 --- abstract
 
@@ -309,3 +328,21 @@ location, and an indicator of its identity (i.e., tail number). Potential need f
 
 ## World Health Organization (WHO)
 Similar use case as the ICRC.
+
+## United Nations Food and Agriculture Organization (FAO)
+Among other things is responsible for the International Plant Protection Convention (IPPC) and 
+International Standards for Phytosanitary Measures standards including ISPM 15 {{ISPM15}} that requires wood
+packaging materials (pallets, crates, dunnages) to be debarked, heat-treated or fumigated with
+methyl-bromide, and stamped or branded with a compliance mark known as a "wheat stamp."
+
+## United Nations Economic and Social Council (ECOSOC)
+UN Model Regulations {{UNMODELREGS}} includes "Recommendations on the Transport of Dangerous Goods." This includes labeling of
+items with a four digit "UN Number" that indicates the comounds contained within, such as chemicals, explosives,
+flammable liquids, etc. For example, items containing lithium-based batteries are labeled with 3480 or 3481 and
+accompanied by a specific "battery mark" emblem.
+
+## World Customs Organization (WCO)
+Specifies "Harmonized Systems" codes {{HARMONIZED}} that classify items such as livestock, arms and ammunition, chemicals, plastics,
+machinery, foodstuffs, etc. They also provide a system for labeling origin of items and valuation of items, all
+enforced by numerous international trade agreements between individual nations and groups of nations.
+
