@@ -11,10 +11,10 @@ pi: [toc, sortrefs, symrefs]
 
 author:
  -
-    ins: R. Fainchstein
-    name: Rahel Fainchstein
+    ins: R. A. Fainchtein
+    name: Rahel A. Fainchtein
     org: JHU/APL
-    email: rahel.fainchstein@jhuapl.edu
+    email: rahel.fainchtein@jhuapl.edu
  -
     ins: C. Deccio
     name: Casey Deccio
@@ -135,7 +135,8 @@ the instance of a physical emblem that has been abused, compromised, or is no lo
 The above list of weaknesses highlights the need for an emblem approach that meets a number of requirements to perform its function
 properly under international law. Because there are multiple use cases for digital emblems, some of which are fundamentally different
 from one another, it is not presumed that any one use of a digital emblem would necessarily have every single one of these requirements
-for a given implementation.
+for a given implementation. In this vein, the working group will identify a core set of baseline requirements for digital emblems.
+Additional use cases will require further extensions. 
 
 ## Identification Requirements
 
