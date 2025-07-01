@@ -101,8 +101,8 @@ BCP 14 {{RFC2119}}{{RFC8174}} when, and only when, they appear in all capitals, 
 
 # Threat Model for Physical Emblems
 
-Physical emblems have served a number of key functions over hundreds of years. The design/use of those physical emblems were limited
-by the available resources and capabilities during the time of their inceptions. As technology advances and newer capabilities become
+Physical emblems have served a number of key functions over hundreds of years and continue to do so to this day.
+As technology advances and newer capabilities become
 available, it is beneficial to examine limitations with existing emblems and identify potential needs going forward.
 
 The following describes a number of weaknesses with physical emblems.
