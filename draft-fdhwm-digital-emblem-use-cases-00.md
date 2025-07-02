@@ -86,6 +86,12 @@ informative:
     title: "Harmonized System"
     author:
        org: World Customs Organization
+
+  RAMSAR:
+    target: https://www.ramsar.org
+    title: The Convention on Wetlands
+    author:
+       org: Convention on Wetlands Secretariat
     
 --- abstract
 
@@ -345,4 +351,12 @@ accompanied by a specific "battery mark" emblem.
 Specifies "Harmonized Systems" codes {{HARMONIZED}} that classify items such as livestock, arms and ammunition, chemicals, plastics,
 machinery, foodstuffs, etc. They also provide a system for labeling origin of items and valuation of items, all
 enforced by numerous international trade agreements between individual nations and groups of nations.
+
+## Ramsar Convention on the Wetlands (UNESCO)
+The Convention on Wetlands of International Importance especially as Waterfowl Habitat "providees the single most global framework for intergovernmental cooperation on wetland issues" and it features a list of geographic areas designated by Member States.  A digital emblem for the geographic areas potentially requires
+
+* Indication of location
+* Access to presence or absence of Ramsar designation of a specified location 
+* Textual description
+* Ability to validate the presence or absence of Ramsar designation
 
