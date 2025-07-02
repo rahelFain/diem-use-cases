@@ -11,10 +11,10 @@ pi: [toc, sortrefs, symrefs]
 
 author:
  -
-    ins: R. Fainchstein
-    name: Rahel Fainchstein
+    ins: R. A. Fainchtein
+    name: Rahel A. Fainchtein
     org: JHU/APL
-    email: rahel.fainchstein@jhuapl.edu
+    email: rahel.fainchtein@jhuapl.edu
  -
     ins: C. Deccio
     name: Casey Deccio
@@ -126,8 +126,8 @@ BCP 14 {{RFC2119}}{{RFC8174}} when, and only when, they appear in all capitals, 
 
 # Threat Model for Physical Emblems
 
-Physical emblems have served a number of key functions over hundreds of years. The design/use of those physical emblems were limited
-by the available resources and capabilities during the time of their inceptions. As technology advances and newer capabilities become
+Physical emblems have served a number of key functions over hundreds of years and continue to do so to this day.
+As technology advances and newer capabilities become
 available, it is beneficial to examine limitations with existing emblems and identify potential needs going forward.
 
 The following describes a number of weaknesses with physical emblems.
@@ -160,7 +160,8 @@ the instance of a physical emblem that has been abused, compromised, or is no lo
 The above list of weaknesses highlights the need for an emblem approach that meets a number of requirements to perform its function
 properly under international law. Because there are multiple use cases for digital emblems, some of which are fundamentally different
 from one another, it is not presumed that any one use of a digital emblem would necessarily have every single one of these requirements
-for a given implementation.
+for a given implementation. In this vein, the working group will identify a core set of baseline requirements for digital emblems.
+Additional use cases will require further extensions. 
 
 ## Identification Requirements
 
